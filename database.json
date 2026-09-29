@@ -1,5 +1,9 @@
 {
-  "users": [],
-  "userContacts": {},
-  "messagesStore": {}
+  "users": {},
+  "friends": {},
+  "friendRequests": {},
+  "nicknames": {},
+  "messagesStore": {},
+  "lastSeen": {},
+  "groups": {}
 }
